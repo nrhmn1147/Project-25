@@ -5,7 +5,7 @@ class paper{
             restitution :0,
             friction :0,
             density :1.2
-            
+        
         }
         this.body = Bodies.circle(250,540,20,options);
         this.width =33;
